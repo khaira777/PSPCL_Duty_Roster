@@ -8,3 +8,13 @@ D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\PSPCL\obj\Relea
 D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\PSPCL\obj\Release\PSPCL.csproj.CoreCompileInputs.cache
 D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\PSPCL\obj\Release\PSPCL.exe
 D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\PSPCL\obj\Release\PSPCL.pdb
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\bin\Release\PSPCL.exe.config
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\bin\Release\PSPCL.exe
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\bin\Release\PSPCL.pdb
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\obj\Release\PSPCL.csprojAssemblyReference.cache
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\obj\Release\PSPCL.PSPCL.resources
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\obj\Release\PSPCL.Properties.Resources.resources
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\obj\Release\PSPCL.csproj.GenerateResource.cache
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\obj\Release\PSPCL.csproj.CoreCompileInputs.cache
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\obj\Release\PSPCL.exe
+D:\OneDrive_Centennial\OneDrive - Centennial College\pspcl\PSPCL\obj\Release\PSPCL.pdb
